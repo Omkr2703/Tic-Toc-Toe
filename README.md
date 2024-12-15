@@ -12,7 +12,7 @@ Welcome to the **Tic Tac Toe** game! This is a simple implementation of the clas
 ## Live Demo
 
 You can play the game live here:  
-[Live Demo](https://your-username.github.io/tic-tac-toe/)
+[Live Demo](https://omkr2703.github.io/Tic-Toc-Toe/)
 
 
 ## How to Play
