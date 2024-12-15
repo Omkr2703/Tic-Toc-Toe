@@ -31,3 +31,6 @@ To play the game locally, follow these steps:
 ```bash
 git clone https://github.com/your-username/tic-tac-toe.git
 
+cd tic-tac-toe
+
+
